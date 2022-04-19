@@ -33,7 +33,7 @@ df.isnull().values.any()
 df.isnull().sum()
 
 
-#############  Görev 1: Aşağıdaki Soruları Yanıtlayınız ##################
+#############  Görev 1 ##################
 
 # Soru 1: persona.csv dosyasını okutunuz ve veri seti ile ilgili genel bilgileri gösteriniz.
 
@@ -266,9 +266,6 @@ agg_df.head()
 
 ####################################################################################
 #  Görev 5: Age değişkenini kategorik değişkene çeviriniz ve agg_df’e ekleyiniz.
-#min max değerlerini numeric algılamasın diye str dedik yoksa type error hatası alırız
-#label değerler string değerlerden oluşmalı sayısal değişkeni kategoriğe çeviriyoruz.
-# Burada -1 dememizin sebebi bir insanın yaşının 0 olmasından kaynaklıdır.Direk 0 da denilebilirdi.
 
  #AGE değişkeninin nerelerden bölüneceğini belirtelim:
 bins = [0, 18, 23, 30, 40, agg_df["AGE"].max()]
