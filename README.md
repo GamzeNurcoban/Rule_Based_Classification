@@ -1,4 +1,4 @@
-# Rule_Based_Classification
+# Rule Based Classification
 <img width="238" alt="image" src="https://user-images.githubusercontent.com/101832704/168176954-1b3192f6-c532-424d-83e0-2a3936b9cfd3.png">
 
 # Business Problem
