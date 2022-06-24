@@ -23,7 +23,11 @@ the user may have made more than one purchase.
 
 # Variables
 PRICE – Customer's expense amount
+
 SOURCE – Type of device the customer connects to
+
 SEX – Customer's gender
+
 COUNTRY – Customer's country
+
 AGE – Customer's age
